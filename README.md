@@ -1,1 +1,1 @@
-# nlp
+# 使用NLPCC2016KBQa数据集
